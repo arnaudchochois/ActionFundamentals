@@ -1,6 +1,5 @@
 # GitHub Actions Fundamentals
 
-test edit
 
 Repo for the `GitHub Actions Fundamentals` training.
 
